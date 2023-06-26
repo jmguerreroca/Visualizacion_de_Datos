@@ -8,4 +8,6 @@ El conjunto de datos puede encontrarse en este mismo directorio bajo el nombre d
 Finalmente, y lo más importante, la visualización se ha llevado a cabo utilizando Tableau así que a continuación se adjunta el enlace a **TABLEAU PUBLIC** donde podemos encontrar la misma: https://public.tableau.com/views/GuerreroCarrasco_JuanMaria_VisualizacionDatos_PRA2/Analisisramasestudio?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
 
 
-También se adjunta el libro de Tableau en formato TWB sobre el que se ha realizado el desarrollo con nombre **GuerreroCarrasco_JuanMaria_VisualizacionDatos_PRA2.twb**, así como el vídeo explicativo de la práctica con el nombre **GuerreroCarrasco_JuanMaria_PRA2.avi**
+También se adjunta el libro de Tableau en formato TWB sobre el que se ha realizado el desarrollo con nombre **GuerreroCarrasco_JuanMaria_VisualizacionDatos_PRA2.twb**.
+
+El vídeo explicativo de la práctica con el nombre **GuerreroCarrasco_JuanMaria_PRA2.avi** así como el resto de recursos adjuntos en este Git podemos encontrarlos adicionalmente en el enlace de Drive: https://drive.google.com/drive/folders/11Lw1IvKcNuPOlOJEXPhDwnnBYCMqLHzf?usp=sharing
